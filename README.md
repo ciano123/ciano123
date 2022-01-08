@@ -32,9 +32,9 @@ um mundo melhor, é o que me move.
 
   ##
 
-### 🎨 &nbsp;Front-end
+### 🎨 &nbsp;Front-End
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
- ***
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
