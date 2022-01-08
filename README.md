@@ -5,7 +5,7 @@
 - 🎯 Acredito no impacto e poder que a tecnologia tem, e estar incluso aplicando meus conhecimentos em prol de 
 um mundo melhor, é o que me move.
 - 👩‍💻 Graduando de **Engenharia de Computação**
-- 🏛️ Universidade federal do Ceará - UFC
+- 🏛️ Universidade Federal do Ceará - UFC
 - 💻 Aprimorando estudos em **Front-End**
 
 ***
